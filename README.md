@@ -1,2 +1,2 @@
-# trep
+# Trep
 Trep developer wiki
