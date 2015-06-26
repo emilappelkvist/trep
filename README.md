@@ -15,4 +15,4 @@ https://github.com/emilappelkvist/trep-developer-wiki/issues/new
 or send a mail:
 info@trep.se
 
-https://travis-ci.org/joomla/joomla-cms.png
+![Screenshot](http://www.joomlatools.com/images/blog/2015/joomla-vagrant-13-dashboard.png)
