@@ -1,7 +1,7 @@
 # Trep
 Welcome to the Trep developer wiki
 
-Trep is a estimating component for Joomla
+Trep is a Joomla component
 <br>
 
 Click here for wiki:
