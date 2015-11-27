@@ -1,0 +1,19 @@
+THIS DOCUMENT IS NOT LIVE. ITS JUST BRAINSTORMING.
+
+1. Statement of Purpose
+
+First of all. -Quality is what matter the most-
+The purpose of this manual is to ensure and safeguard the quality and coding standards of Trep Estimator.
+
+2. Before any work begin.
+  Every requirment, recommendation and standars in this document must be meet:
+  1. https://joomla.github.io/coding-standards/?coding-standards/introduction.md
+  1. Good programming practices should be used at all times.
+  2. Code should be formatted in a strict manner. Great care must be taken to ensure easy maintaining of code.
+  3. Each part of "Getting Started with Object Oriented Programming" "https://docs.joomla.org/Getting_Started_with_Object_Oriented_Programming" should be met.
+
+Good things:
+make comments in any situation where the purpose of the code I've written isn't immediately apparent.
+
+http://code.tutsplus.com/tutorials/why-youre-a-bad-php-programmer--net-18384
+http://flowframework.readthedocs.org/en/stable/TheDefinitiveGuide/PartV/CodingGuideLines/PHP.html
