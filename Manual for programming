@@ -6,18 +6,40 @@ First of all. -Quality is what matter the most-
 The purpose of this manual is to ensure and safeguard the quality and coding standards of Trep Estimator.
 
 2. Requirments.
-  The following documents complement each other
-  If the documents have conflicting information, unless circumstances clearly dictate to others , apply the following order:
-  1. Specification of work
-  2. Joomla! Coding Standards Manual (https://joomla.github.io/coding-standards/?coding-standards/introduction.md)
-  3. Joomla! Developing an MVC Component/Introduction (https://docs.joomla.org/J3.x:Developing_an_MVC_Component/Introduction)
-  4.
-  
-  2. Code should be formatted in a strict manner. Great care must be taken to ensure easy maintaining of code.
-  3. Each part of "Getting Started with Object Oriented Programming" "https://docs.joomla.org/Getting_Started_with_Object_Oriented_Programming" should be met.
+  When working with Trep Estimator all the recommendations, instructions and specifications in the listed documents must be met.
+  The documents complement each other.
+  If the documents have conflicting data or information, unless circumstances clearly dictate to others , apply the following order:
+    1. Specification of work
+    2. Joomla! Coding Standards Manual (https://joomla.github.io/coding-standards/?coding-standards/introduction.md)
+    3. Joomla Developers (https://docs.joomla.org/Portal:Developers) Including all documents linked in this portal.
+  To ensure that all requirements are met, all work will be reviewed by quality expert.
+
+3. Furher Instructions:
+  1. Code should be formatted in a strict manner. Great care must be taken to ensure easy maintaining of code.
+  2. Comments must be made in any situation where the purpose of the written code isn't immediately apperent.
+
+Documentation:
 
 Good things:
-make comments in any situation where the purpose of the code I've written isn't immediately apperent.
+make 
 
 http://code.tutsplus.com/tutorials/why-youre-a-bad-php-programmer--net-18384
 http://flowframework.readthedocs.org/en/stable/TheDefinitiveGuide/PartV/CodingGuideLines/PHP.html
+
+
+3. Points of contact for future correspondence
+Questions and proposal needs to be in english eller på svenska.
+
+
+4. Payments
+When work start 20% of contract sum.
+When project finished 80% of contractsum.
+Nothing else.
+
+
+5. Reference
+Send relevant references only.
+The project is only for whom worked before with Joomla components and have wide experience with documentation and github.
+
+6. Time
+The project should be finished within 3-4 weeks. 
