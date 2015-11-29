@@ -1,30 +1,64 @@
 THIS DOCUMENT IS NOT LIVE. ITS JUST BRAINSTORMING.
 
-1. Statement of Purpose
+INDEX
+1. STATEMENT OF PURPOSE
+2. REQUIRMENTS
+    -2.1
+    -2.2
+3. DOCUMENTATION
+    -3.1
+    -3.2
+____________________________________________________________________________________
+
+1. STATEMENT OF PURPOSE
 
 First of all. -Quality is what matter the most-
 The purpose of this manual is to ensure and safeguard the quality and coding standards of Trep Estimator.
 
-2. Requirments.
+____________________________________________________________________________________
+
+2. REQUIRMENTS
+
   2.1 When working with Trep Estimator all the recommendations, instructions and specifications in the listed documents must be met.
   The documents complement each other.
   If the documents have conflicting data or information, unless circumstances clearly dictate to others , apply the following order:
     1. Specification of work
     2. Joomla! Coding Standards Manual (https://joomla.github.io/coding-standards/?coding-standards/introduction.md) Including all documents linked in this portal.
     3. Joomla Developers (https://docs.joomla.org/Portal:Developers) Including all documents linked in this portal.
-    4. GitHub Guides (https://guides.github.com/) Including all documents linked in this portal.
 
-  2.2 Furher Instructions:
-  1. Code should be formatted in a strict manner. Great care must be taken to ensure easy maintaining of code.
-  2. Comments (in code) must be made in any situation where the purpose of the written code isn't immediately apperent.
-  3. All work with 
+  2.2 Furher Instructions.
+    1. Code must be formatted in a strict manner. Great care must be taken to ensure easy maintaining of code.
+    2. Comments (in code) must be made in any situation where the purpose of the written code isn't immediately apperent.
 
 To ensure that all requirements are met, all work will be reviewed by quality expert.
 
-3. Documentation.
-Work resulting in changes affecting the documentation of Trep Estimator aka trep-developer-wiki (https://github.com/emilappelkvist/trep-developer-wiki)
+____________________________________________________________________________________
+
+3. DOCUMENTATION
+
+  3.1 The documentation of Trep Estimator, known as trep-developer-wiki (https://github.com/emilappelkvist/trep-developer-wiki) must be maintained upon changes.
+  If changes are being made affecting trep-developer-wiki the documentation must be updated.
+  All the recommendations, instructions and specifications in the listed documents must be met:
+    1. Creating Documentation of Trep Estimator (https://drive.google.com/file/d/0B31k96YWk-ozZnBRWkZCVzhaelU/view?usp=sharing)
+    
+  3.2 The files of Trep Estimator must maintain perfect Github workflow.
+  Github Guides - Understanding the GitHub Flow:
+  "Whenever you add, edit, or delete a file, you're making a commit, and adding them to your branch. 
+  This process of adding commits keeps track of your progress as you work on a feature branch.
+  Commits also create a transparent history of your work that others can follow to understand what you've done and why. 
+  Each commit has an associated commit message, which is a description explaining why a particular change was made. 
+  Furthermore, each commit is considered a separate unit of change. 
+  This lets you roll back changes if a bug is found, or if you decide to head in a different direction."
+  All the recommendations, instructions and specifications in the listed documents must be met:
+   1. GitHub Guides (https://guides.github.com/) Including all documents linked in this portal.
+
+To ensure that all requirements are met, all work will be reviewed by quality expert.
+
+____________________________________________________________________________________
 
 4. Checklist before start
+To ensure that all requirements are met, all work will be reviewed by quality expert.
+
 
 Good things:
 make 
@@ -32,15 +66,22 @@ make
 http://code.tutsplus.com/tutorials/why-youre-a-bad-php-programmer--net-18384
 http://flowframework.readthedocs.org/en/stable/TheDefinitiveGuide/PartV/CodingGuideLines/PHP.html
 
+____________________________________________________________________________________
 
-3. Points of contact for future correspondence
-Questions and proposal needs to be in english eller på svenska.
+3. Points of contact.
+  Communication needs to be in english.
+  Communication of importance should be put on Trep-Estimator Issues (https://github.com/emilappelkvist/Trep-Estimator/issues) with suitable label.
+  General discussion takes place on Skype.
 
+____________________________________________________________________________________
 
-4. Payments
-When work start 20% of contract sum.
-When project finished 80% of contractsum.
-Nothing else.
+Bugs and testing
+
+4. PAYMENTS
+
+Payments will be made according to agreement.
+Work that does not achieve the requirements found in this document will not be paid for.
+Final payment or milestone will only be made when work has been reviewed by quality expert.
 
 
 5. Reference
@@ -49,3 +90,5 @@ The project is only for whom worked before with Joomla components and have wide 
 
 6. Time
 The project should be finished within 3-4 weeks. 
+
+4. Checklist before start
