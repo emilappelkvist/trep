@@ -54,7 +54,16 @@ ________________________________________________________________________________
         1. Creating Documentation of Trep Estimator 
         (https://drive.google.com/file/d/0B31k96YWk-ozZnBRWkZCVzhaelU/view?usp=sharing)
     
-    3.2 The files of Trep Estimator must maintain perfect Github workflow.Github Guides - Understanding the GitHub Flow:"Whenever you add, edit, or delete a file, you're making a commit, and adding them to your branch. This process of adding commits keeps track of your progress as you work on a feature branch.Commits also create a transparent history of your work that others can follow to understand what you've done and why. Each commit has an associated commit message, which is a description explaining why a particular change was made. Furthermore, each commit is considered a separate unit of change. This lets you roll back changes if a bug is found, or if you decide to head in a different direction."All the recommendations, instructions and specifications in the listed documents must be met:1. GitHub Guides (https://guides.github.com/) Including all documents linked in this portal.
+    3.2 The files of Trep Estimator must maintain perfect Github workflow.
+    Github Guides - Understanding the GitHub Flow:
+    "Whenever you add, edit, or delete a file, you're making a commit, and adding them to your branch. This process of 
+    adding commits keeps track of your progress as you work on a feature branch.Commits also create a transparent history
+    of your work that others can follow to understand what you've done and why. Each commit has an associated commit message, 
+    which is a description explaining why a particular change was made. Furthermore, each commit is considered a separate 
+    unit of change. This lets you roll back changes if a bug is found, or if you decide to head in a different direction."
+    
+    All the recommendations, instructions and specifications in the listed documents must be met:
+        1. GitHub Guides (https://guides.github.com/) Including all documents linked in this portal.
 
     To ensure that all requirements are met, all work will be reviewed by quality expert.
 
@@ -66,7 +75,7 @@ ________________________________________________________________________________
     All the recommendations, instructions and specifications in the listed documents must be met:
         1. xxx (https://xxx) Including all documents linked in this portal.
     
-    4.2 The worker/developer/programmer is responsible for a bug free end result. This includes wide scale testing to find and
+    4.2 The worker/developer/programmer is responsible for a bug free product. This includes wide scale testing to find and
     eliminate bugs. Bugs of importance found are to be documented and should be put on Github Trep-Estimator Issues 
     (https://github.com/emilappelkvist/Trep-Estimator/issues) with label Bugs.
 
@@ -89,8 +98,6 @@ ________________________________________________________________________________
     General discussion takes place on Skype.
 
 ____________________________________________________________________________________
-
-Bugs and testing NDA
 
     4. PAYMENTS
 
