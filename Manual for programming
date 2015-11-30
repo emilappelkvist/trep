@@ -19,11 +19,14 @@ ________________________________________________________________________________
 
 2. REQUIRMENTS
 
-  2.1 When working with Trep Estimator all the recommendations, instructions and specifications in the listed documents must be met.
+  2.1 When working with Trep Estimator all the recommendations, instructions and specifications in the listed documents must 
+  be met.
   The documents complement each other.
-  If the documents have conflicting data or information, unless circumstances clearly dictate to others , apply the following order:
+  If the documents have conflicting data or information, unless circumstances clearly dictate to others , apply the following 
+  order:
     1. Specification of work
-    2. Joomla! Coding Standards Manual (https://joomla.github.io/coding-standards/?coding-standards/introduction.md) Including all documents linked in this portal.
+    2. Joomla! Coding Standards Manual (https://joomla.github.io/coding-standards/?coding-standards/introduction.md) Including 
+    all documents linked in this portal.
     3. Joomla Developers (https://docs.joomla.org/Portal:Developers) Including all documents linked in this portal.
 
   2.2 Furher Instructions.
@@ -36,10 +39,12 @@ ________________________________________________________________________________
 
 3. DOCUMENTATION
 
-  3.1 The documentation of Trep Estimator, known as trep-developer-wiki (https://github.com/emilappelkvist/trep-developer-wiki) must be maintained upon changes.
+  3.1 The documentation of Trep Estimator, known as trep-developer-wiki (https://github.com/emilappelkvist/trep-developer-wiki) 
+  must be maintained upon changes.
   If changes are being made affecting trep-developer-wiki the documentation must be updated.
   All the recommendations, instructions and specifications in the listed documents must be met:
-    1. Creating Documentation of Trep Estimator (https://drive.google.com/file/d/0B31k96YWk-ozZnBRWkZCVzhaelU/view?usp=sharing)
+    1. Creating Documentation of Trep Estimator 
+    (https://drive.google.com/file/d/0B31k96YWk-ozZnBRWkZCVzhaelU/view?usp=sharing)
     
   3.2 The files of Trep Estimator must maintain perfect Github workflow.
   Github Guides - Understanding the GitHub Flow:
@@ -72,7 +77,8 @@ ________________________________________________________________________________
 3. Points of contact.
 
   Communication needs to be in english.
-  Communication of importance should be put on Trep-Estimator Issues (https://github.com/emilappelkvist/Trep-Estimator/issues) with suitable label.
+  Communication of importance should be put on Github Trep-Estimator Issues 
+  (https://github.com/emilappelkvist/Trep-Estimator/issues) with suitable label.
   General discussion takes place on Skype.
 
 ____________________________________________________________________________________
