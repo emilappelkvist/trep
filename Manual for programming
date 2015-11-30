@@ -30,7 +30,9 @@ ________________________________________________________________________________
         3. Joomla Developers (https://docs.joomla.org/Portal:Developers) Including all documents linked in this portal.
 
     2.2 Furher Instructions.
-        1. Code must be formatted in a strict manner. Great care must be taken to ensure easy maintaining of code.
+        1. Code must be formatted in a strict manner. Great care must be taken to ensure easy maintaining and understanding 
+        of code.
+        3. The code should if possible be self-explanatory.
         2. Comments (in code) must be made in any situation where the purpose of the written code isn't immediately apperent.
 
     To ensure that all requirements are met, all work will be reviewed by quality expert.
@@ -57,7 +59,7 @@ ________________________________________________________________________________
     3.2 The files of Trep Estimator must maintain perfect Github workflow.
     Github Guides - Understanding the GitHub Flow:
     "Whenever you add, edit, or delete a file, you're making a commit, and adding them to your branch. This process of 
-    adding commits keeps track of your progress as you work on a feature branch.Commits also create a transparent history
+    adding commits keeps track of your progress as you work on a feature branch. Commits also create a transparent history
     of your work that others can follow to understand what you've done and why. Each commit has an associated commit message, 
     which is a description explaining why a particular change was made. Furthermore, each commit is considered a separate 
     unit of change. This lets you roll back changes if a bug is found, or if you decide to head in a different direction."
