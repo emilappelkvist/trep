@@ -79,9 +79,8 @@ ________________________________________________________________________________
 
 4. QUALITY ASSURANCE
 
-    4.1 Testing must be done according to testplan.
-    All the recommendations, instructions and specifications in the listed documents must be met:
-        1. Trep test plan (https://github.com/emilappelkvist/Trep-Estimator/wiki/Testing) Including all documents linked in this portal.
+    4.1 Testing must be done according to a testplan.
+    The worker/developer/programmer is responsible for creating a testplan for the project scope.
     
     4.2 The worker/developer/programmer is responsible for a bug free product. This includes wide scale testing to find and
     eliminate bugs. Bugs of importance found are to be documented and should be put on Github Trep-Estimator Issues 
