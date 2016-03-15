@@ -81,7 +81,7 @@ ________________________________________________________________________________
 4. QUALITY ASSURANCE
 
     4.1 Testing must be done according to a testplan.
-    The worker/developer/programmer is responsible for creating a testplan for the project scope.
+    The worker/developer/programmer is responsible for creating a testplan matching the project scope.
     
     4.2 The worker/developer/programmer is responsible for a bug free product. This includes wide scale testing to find and
     eliminate bugs. Bugs of importance found are to be documented and should be put on Github Trep-Estimator Issues 
