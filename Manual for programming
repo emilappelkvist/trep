@@ -66,6 +66,8 @@ ________________________________________________________________________________
         (https://drive.google.com/file/d/0B31k96YWk-ozZnBRWkZCVzhaelU/view?usp=sharing)
     
     3.2 The files of Trep Estimator must maintain perfect Github workflow.
+        -Work and code should on a daily basis be pushed to Github with comments.
+        
     Github Guides - Understanding the GitHub Flow:
     "Whenever you add, edit, or delete a file, you're making a commit, and adding them to your branch. This process of 
     adding commits keeps track of your progress as you work on a feature branch. Commits also create a transparent history
